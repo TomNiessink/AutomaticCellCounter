@@ -8,3 +8,4 @@ The script Folder_counter.m automatically counts al cells in a defined folder wi
 
 The script countcells.m is a function which contains both the segmentation as the counting part of the script.
 
+The example folder contains five example .TIF images which can be used to test the software.
